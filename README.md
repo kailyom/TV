@@ -12,6 +12,7 @@ https://github.com/CatVodTVOfficial/CatVodTVJarLoader
 | changeable | 1    | 是否換源 | 0：關閉；1：啟用  |
 | quickserch | 1    | 是否快搜 | 0：關閉；1：啟用  |
 | indexs     | 0    | 是否聚搜 | 0：關閉；1：啟用  |
+| hide       | 0    | 是否隱藏 | 0：顯示；1：隱藏  |
 | timeout    | 15   | 播放超時 | 單位：秒       |
 | header     | none | 請求標頭 | 格式：json    |
 | click      | none | 點擊js | javascript |
@@ -204,9 +205,13 @@ scheme://username:password@host:port
 
 ### 飛機群
 
-[討論群組](https://t.me/fongmi_offical)  
+[討論群組](https://t.me/+qTlg0qAVzP9kMmM1)  
 [發布頻道](https://t.me/fongmi_release)
 
 ### 贊助
 
 ![photo_2024-01-10_11-39-12](https://github.com/FongMi/TV/assets/3471963/fdc12771-386c-4d5d-9a4d-d0bec0276fa7)
+
+### Star
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FongMi/TV&type=Date)](https://www.star-history.com/#FongMi/TV&Date)
